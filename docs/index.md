@@ -31,7 +31,7 @@ body {
 # Habilidades
 
 <p align="center">
-  <img src="Captura_de_pantalla_2025-10-19_215155.png" alt="Habilidades" width="80%">
+  <img src="Captura_de_pantalla_2025-10-19_215155.png" alt="Habilidades" width="70%">
 </p>
 
 
@@ -100,6 +100,7 @@ body {
 📱 **Teléfono:** +34 653685949  
 💼 **LinkedIn:** [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)  
 🐙 **GitHub:** [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
 
 
