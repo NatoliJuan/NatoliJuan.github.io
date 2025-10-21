@@ -1,6 +1,6 @@
 # Portfolio Juan Natoli Rojo
 
-[Habilidades](#habilidades) | [Proyectos](#proyectos) | [Educacion](#educacion) | [Contacto](#contacto)
+[Habilidades](#habilidades) | [Proyectos](#proyectos) | [Educación](#educación) | [Contacto](#contacto)
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
@@ -18,32 +18,33 @@
 
 ![Captura_de_pantalla_2025-10-19_215155.png](Captura_de_pantalla_2025-10-19_215155.png)
 
-# Proyectos
+# proyectos
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
 
   <!-- Proyecto 1 -->
-  <div style="max-width: 250px; text-align: center;">
-    <img src="image5-h_mgtptvsy.jpg" alt="TFM DS Market" width="250" style="border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <p>Analicé y limpié más de 8 millones de registros de ventas de una cadena de supermercados, agrupando productos y tiendas con técnicas de <em>clustering</em> y prediciendo las ventas del mes siguiente mediante modelos de <em>machine learning</em>.</p>
+  <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background-color: #fafafa; display: flex; flex-direction: column; align-items: center;">
+    <img src="image5-h_mgtptvsy.jpg" alt="TFM DS Market" style="width: 250px; height: 180px; object-fit: cover; border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
+    <p style="margin-top: 10px; text-align: left;">Analicé y limpié más de 8 millones de registros de ventas de una cadena de supermercados, agrupando productos y tiendas con técnicas de <em>clustering</em> y prediciendo las ventas del mes siguiente mediante modelos de <em>machine learning</em>.</p>
     <p><a href="https://github.com/NatoliJuan/TFM-DS-Market">Repositorio TFM DS Market</a></p>
   </div>
 
   <!-- Proyecto 2 -->
-  <div style="max-width: 250px; text-align: center;">
-    <img src="image17-h_mgtq6a7s.jpg" alt="Malware Infection" width="250" style="border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <p>Predije la probabilidad de infección por malware en equipos con Windows mediante técnicas de <em>machine learning</em>, evaluando el rendimiento de tres modelos distintos.</p>
+  <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background-color: #fafafa; display: flex; flex-direction: column; align-items: center;">
+    <img src="image17-h_mgtq6a7s.jpg" alt="Malware Infection" style="width: 250px; height: 180px; object-fit: cover; border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
+    <p style="margin-top: 10px; text-align: left;">Predije la probabilidad de infección por malware en equipos con Windows mediante técnicas de <em>machine learning</em>, evaluando el rendimiento de tres modelos distintos.</p>
     <p><a href="https://github.com/NatoliJuan/Malware-infection">Repositorio Malware Infection</a></p>
   </div>
 
   <!-- Proyecto 3 -->
-  <div style="max-width: 250px; text-align: center;">
-    <img src="filtros02.jpg" alt="Filter Cam" width="250" style="border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
-    <p>Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo real desde distintas fuentes, aplicando filtros visuales y detección de rostros mediante <em>OpenCV</em>. Permite activar o desactivar efectos desde el teclado durante la visualización del flujo de vídeo.</p>
+  <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background-color: #fafafa; display: flex; flex-direction: column; align-items: center;">
+    <img src="filtros02.jpg" alt="Filter Cam" style="width: 250px; height: 180px; object-fit: cover; border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
+    <p style="margin-top: 10px; text-align: left;">Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo real desde distintas fuentes, aplicando filtros visuales y detección de rostros mediante <em>OpenCV</em>. Permite activar o desactivar efectos desde el teclado durante la visualización del flujo de vídeo.</p>
     <p><a href="https://github.com/NatoliJuan/Filter-Cam">Repositorio Filter Cam</a></p>
   </div>
 
 </div>
+
 
 
 # Educación
@@ -80,5 +81,6 @@
 📱 **Teléfono:** +34 653685949  
 💼 **LinkedIn:** [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)  
 🐙 **GitHub:** [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
 
