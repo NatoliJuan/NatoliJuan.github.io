@@ -1,7 +1,7 @@
 
 # Portfolio Juan Natoli Rojo
 
-[Habilidades](#habilidades) | [Proyectos](#proyectos) | [Educación](#educacion) | [Contacto](#contacto)
+[Habilidades](#Habilidades) | [Proyectos](#Proyectos) | [Educación](#Educacion) | [Contacto](#Contacto)
 
 
 ![Imagen de WhatsApp 2024-09-13 a las 19.29.39_4529d2b9.jpg](33eacd50-0f45-482b-962d-1836215c1b3e.png)
@@ -104,3 +104,4 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 
 
 🐙 **GitHub:**   [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
