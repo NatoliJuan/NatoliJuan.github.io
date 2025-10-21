@@ -1,15 +1,3 @@
-<style>
-/* Oculta el título azul por defecto de GitHub Pages */
-header h1, .page-header {
-  display: none;
-}
-
-/* Ajusta márgenes del cuerpo para compensar el espacio */
-body {
-  margin-top: 0;
-}
-</style>
-
 
 # Portfolio Juan Natoli Rojo
 
@@ -102,6 +90,7 @@ body {
 📱 **Teléfono:** +34 653685949  
 💼 **LinkedIn:** [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)  
 🐙 **GitHub:** [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
 
 
