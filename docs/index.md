@@ -24,7 +24,6 @@
 </p>
 
 
-
 # Proyectos
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
@@ -90,6 +89,7 @@
 📱 **Teléfono:** +34 653685949  
 💼 **LinkedIn:** [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)  
 🐙 **GitHub:** [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
 
 
