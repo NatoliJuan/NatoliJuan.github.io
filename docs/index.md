@@ -14,9 +14,7 @@
 
 </div>
 
-# habilidades
-
----
+# Habilidades
 
 ![Captura_de_pantalla_2025-10-19_215155.png](Captura_de_pantalla_2025-10-19_215155.png)
 
@@ -24,27 +22,33 @@
 
 ---
 
-![image5-h_mgtptvsy.jpg](image5-h_mgtptvsy.jpg)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
 
-Analicé y limpié más de 8 millones de registros de ventas de una cadena de supermercados, agrupando productos y tiendas con técnicas de *clustering* y prediciendo las ventas del mes siguiente mediante modelos de *machine learning* para optimizar el abastecimiento de stock.
+  <!-- Proyecto 1 -->
+  <div style="max-width: 250px; text-align: center;">
+    <img src="image5-h_mgtptvsy.jpg" alt="TFM DS Market" width="250" style="border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
+    <p>Analicé y limpié más de 8 millones de registros de ventas de una cadena de supermercados, agrupando productos y tiendas con técnicas de <em>clustering</em> y prediciendo las ventas del mes siguiente mediante modelos de <em>machine learning</em>.</p>
+    <p><a href="https://github.com/NatoliJuan/TFM-DS-Market">Repositorio TFM DS Market</a></p>
+  </div>
 
-[Repositorio TFM DS Market](https://github.com/NatoliJuan/TFM-DS-Market)
+  <!-- Proyecto 2 -->
+  <div style="max-width: 250px; text-align: center;">
+    <img src="image17-h_mgtq6a7s.jpg" alt="Malware Infection" width="250" style="border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
+    <p>Predije la probabilidad de infección por malware en equipos con Windows mediante técnicas de <em>machine learning</em>, evaluando el rendimiento de tres modelos distintos.</p>
+    <p><a href="https://github.com/NatoliJuan/Malware-infection">Repositorio Malware Infection</a></p>
+  </div>
 
-![image17-h_mgtq6a7s.jpg](image17-h_mgtq6a7s.jpg)
+  <!-- Proyecto 3 -->
+  <div style="max-width: 250px; text-align: center;">
+    <img src="filtros02.jpg" alt="Filter Cam" width="250" style="border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.2);">
+    <p>Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo real desde distintas fuentes, aplicando filtros visuales y detección de rostros mediante <em>OpenCV</em>. Permite activar o desactivar efectos desde el teclado durante la visualización del flujo de vídeo.</p>
+    <p><a href="https://github.com/NatoliJuan/Filter-Cam">Repositorio Filter Cam</a></p>
+  </div>
 
-Predije la probabilidad de infección por malware en equipos con Windows mediante técnicas de *machine learning*, evaluando el rendimiento de tres modelos distintos con diversas métricas.
+</div>
 
-[Repositorio Malware Infection](https://github.com/NatoliJuan/Malware-infection)
 
-![filtros02.jpg](filtros02.jpg)
-
-Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo real desde distintas fuentes, aplicando filtros visuales y detección de rostros mediante *OpenCV*. Permite activar o desactivar efectos desde el teclado durante la visualización del flujo de vídeo.
-
-[Repositorio Filter Cam](https://github.com/NatoliJuan/Filter-Cam)
-
-# educacion
-
----
+# eEducación
 
 - **CURSO ANÁLISIS DE DATOS PARA BIG DATA EN AWS, UDEMY. SEPTIEMBRE 2025**  
   - Amazon S3, Glue Notebooks, Athena, Lambda, QuickSight y Step Functions.
@@ -72,11 +76,10 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 - **ESCUELAS AVE MARÍA 1994 - 1999 GRADO SUPERIOR EN ELECTRÓNICA**  
   - Conocimientos avanzados en electrónica y electricidad.
 
-# contacto
-
----
+# Contacto
 
 📧 **Email:** natolijuan@gmail.com  
 📱 **Teléfono:** +34 653685949  
 💼 **LinkedIn:** [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)  
 🐙 **GitHub:** [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
