@@ -18,9 +18,7 @@
 
 ![Captura_de_pantalla_2025-10-19_215155.png](Captura_de_pantalla_2025-10-19_215155.png)
 
-# proyectos
-
----
+# Proyectos
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
 
@@ -48,7 +46,7 @@
 </div>
 
 
-# eEducación
+# Educación
 
 - **CURSO ANÁLISIS DE DATOS PARA BIG DATA EN AWS, UDEMY. SEPTIEMBRE 2025**  
   - Amazon S3, Glue Notebooks, Athena, Lambda, QuickSight y Step Functions.
@@ -82,4 +80,5 @@
 📱 **Teléfono:** +34 653685949  
 💼 **LinkedIn:** [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)  
 🐙 **GitHub:** [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
