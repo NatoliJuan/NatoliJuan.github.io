@@ -1,11 +1,12 @@
 
 # Portfolio Juan Natoli Rojo
 
-### [**Habilidades](https://www.notion.so/Portfolio-Juan-Natoli-Rojo-2919c3357f0380898c3ff0471280797f?pvs=21)     [Proyectos](https://www.notion.so/Portfolio-Juan-Natoli-Rojo-2919c3357f0380898c3ff0471280797f?pvs=21)     [Educación     Contacto](https://www.notion.so/Portfolio-Juan-Natoli-Rojo-2919c3357f0380898c3ff0471280797f?pvs=21)**
+[Habilidades](#habilidades) | [Proyectos](#proyectos) | [Educación](#educacion) | [Contacto](#contacto)
+
 
 ![Imagen de WhatsApp 2024-09-13 a las 19.29.39_4529d2b9.jpg](33eacd50-0f45-482b-962d-1836215c1b3e.png)
 
-## **Hola! Soy Juan Natoli.**
+## Hola! Soy Juan Natoli.
 
 **Científico de Datos Junior con formación especializada en machine learning, procesamiento de datos y visualización. Experiencia profesional en el análisis técnico de sistemas, detección de patrones y gestión de equipos.** 
 
@@ -13,7 +14,7 @@
 
 <aside>
 
-# **Habilidades**
+# Habilidades
 
 ---
 
@@ -23,7 +24,7 @@
 
 <aside>
 
-# **Proyectos**
+# Proyectos
 
 ---
 
@@ -59,7 +60,7 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 
 <aside>
 
-# **Educación**
+# Educación
 
 ---
 
@@ -89,7 +90,7 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 
 <aside>
 
-# **Contacto**
+# Contacto
 
 ---
 
@@ -100,5 +101,6 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 📱 **Teléfono:** +34 653685949
 
 💼 **LinkedIn:**  [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)
+
 
 🐙 **GitHub:**   [github.com/NatoliJuan](https://github.com/NatoliJuan)
