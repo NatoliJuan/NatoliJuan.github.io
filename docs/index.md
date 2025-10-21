@@ -67,31 +67,58 @@ body {
 
 # Educación
 
-- **CURSO ANÁLISIS DE DATOS PARA BIG DATA EN AWS, UDEMY. SEPTIEMBRE 2025**  
-  - Amazon S3, Glue Notebooks, Athena, Lambda, QuickSight y Step Functions.
-    
-- **INGLÉS PARA DESARROLLADORES (B1), FREECODECAMP. AGOSTO 2025**  
-  - 73 diálogos diferentes diseñados para ampliar vocabulario en un entorno tecnológico profesional.
+---
 
-- **CURSO BIG DATA CON APACHE SPARK, UDEMY. JULIO 2025**  
-  - RDDs, Spark SQL, Dataframes y Streaming.  
-  - Machine Learning con Spark ML  
-  - Analítica avanzada, visualización de datos, Spark Koalas y despliegue de clusters de Spark con Databricks.
+<details>
+  <summary><strong>CURSO ANÁLISIS DE DATOS PARA BIG DATA EN AWS, UDEMY. SEPTIEMBRE 2025</strong></summary>
+  <ul>
+    <li>Amazon S3, Glue Notebooks, Athena, Lambda, QuickSight y Step Functions.</li>
+  </ul>
+</details>
 
-- **MASTER EN CIENCIA DE DATOS, ESCUELA NUCLIO DIGITAL. SEPTIEMBRE 2024 – MAYO 2025**  
-  - Especialización en análisis de datos y modelos predictivos  
-  - Tecnologías: Python (numpy, pandas, matplotlib, scikit-learn, xgboost), SQL/NoSQL, Power BI  
-  - Machine Learning: modelos supervisados, no supervisados y por refuerzo  
-  - Deep Learning: redes neuronales con TensorFlow, Keras y transformadores  
-  - Herramientas: Git, Google Colab, Jupyter Notebook, Docker, MLOps, Apache Airflow
+<details>
+  <summary><strong>INGLÉS PARA DESARROLLADORES (B1), FREECODECAMPS. AGOSTO 2025</strong></summary>
+  <ul>
+    <li>73 diálogos diferentes diseñados para ampliar vocabulario en un entorno tecnológico profesional.</li>
+  </ul>
+</details>
 
-- **AUTODIDACTA EN PROGRAMACIÓN PYTHON. JULIO 2023 – SEPTIEMBRE 2024**  
-  - IDE Visual Studio Code  
-  - Programación orientada a objetos  
-  - Librerías: random, json, datetime, opencv, API requests
+<details>
+  <summary><strong>CURSO BIG DATA CON APACHE SPARK, UDEMY. JULIO 2025</strong></summary>
+  <ul>
+    <li>RDDs, Spark SQL, Dataframes y Streaming.</li>
+    <li>Machine Learning con Spark ML.</li>
+    <li>Analítica avanzada, visualización de datos, Spark Koalas y despliegue de clusters con Databricks.</li>
+  </ul>
+</details>
 
-- **ESCUELAS AVE MARÍA 1994 - 1999 GRADO SUPERIOR EN ELECTRÓNICA**  
-  - Conocimientos avanzados en electrónica y electricidad.
+<details>
+  <summary><strong>MÁSTER EN CIENCIA DE DATOS, ESCUELA NUCLIO DIGITAL. SEPTIEMBRE 2024 – MAYO 2025</strong></summary>
+  <ul>
+    <li>Especialización en análisis de datos y modelos predictivos.</li>
+    <li>Tecnologías: Python (NumPy, pandas, matplotlib, scikit-learn, XGBoost), SQL/NoSQL, Power BI.</li>
+    <li>Machine Learning: modelos supervisados, no supervisados y por refuerzo.</li>
+    <li>Deep Learning: redes neuronales con TensorFlow, Keras y transformadores.</li>
+    <li>Herramientas: Git, Google Colab, Jupyter Notebook, Docker, MLOps, Apache Airflow.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>AUTODIDACTA EN PROGRAMACIÓN PYTHON. JULIO 2023 – SEPTIEMBRE 2024</strong></summary>
+  <ul>
+    <li>IDE Visual Studio Code.</li>
+    <li>Programación orientada a objetos.</li>
+    <li>Librerías: random, json, datetime, OpenCV, API requests.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>ESCUELAS AVE MARÍA. 1994 – 1999</strong></summary>
+  <ul>
+    <li>Grado Superior en Electrónica.</li>
+    <li>Conocimientos avanzados en electrónica y electricidad.</li>
+  </ul>
+</details>
 
 
 # Contacto
@@ -100,6 +127,7 @@ body {
 📱 **Teléfono:** +34 653685949  
 💼 **LinkedIn:** [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)  
 🐙 **GitHub:** [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
 
 
