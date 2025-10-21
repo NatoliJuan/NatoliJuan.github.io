@@ -24,8 +24,13 @@
       margin-right: auto;
     }
 
-    h1, h2 {
+    h1 {
       text-align: center;
+    }
+
+    h2 {
+      text-align: left; /* títulos a la izquierda */
+      margin-top: 50px;
     }
 
     hr {
@@ -33,6 +38,7 @@
       height: 2px;
       background: #0366d6;
       margin: 10px 0 30px 0;
+      width: 100%;
     }
 
     a {
@@ -44,13 +50,94 @@
       text-decoration: underline;
     }
 
-    ...
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* Flex contenedor para foto + descripción */
+    .intro {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 30px;
+      flex-wrap: wrap;
+      margin-bottom: 40px;
+    }
+
+    .intro img {
+      border-radius: 50%;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      width: 180px;
+    }
+
+    .intro .text {
+      max-width: 500px;
+      text-align: left;
+    }
+
+    /* Proyectos */
+    .proyectos {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      gap: 30px;
+      align-items: flex-start;
+      margin-bottom: 40px;
+    }
+
+    .proyecto {
+      width: 250px;
+      text-align: center;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      background-color: #fafafa;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .proyecto img {
+      width: 250px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    }
+
+    .proyecto p {
+      margin-top: 10px;
+      text-align: left;
+    }
+
+    /* Habilidades centradas */
+    .habilidades {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    /* Desplegables Educación */
+    details {
+      margin-bottom: 10px;
+    }
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+    }
   </style>
 </head>
-
 <body>
 
 <h1>Portfolio Juan Natoli Rojo</h1>
+
+<p style="text-align:center;">
+  <a href="#habilidades">Habilidades</a> | 
+  <a href="#proyectos">Proyectos</a> | 
+  <a href="#educación">Educación</a> | 
+  <a href="#contacto">Contacto</a>
+</p>
 
 <!-- Introducción -->
 <div class="intro">
@@ -75,19 +162,19 @@
   <div class="proyecto">
     <img src="image5-h_mgtptvsy.jpg" alt="TFM DS Market">
     <p>Analicé y limpié más de 8 millones de registros de ventas de una cadena de supermercados, agrupando productos y tiendas con técnicas de <em>clustering</em> y prediciendo las ventas del mes siguiente mediante modelos de <em>machine learning</em>.</p>
-    <a href="https://github.com/NatoliJuan/TFM-DS-Market" class="button">Repositorio</a>
+    <p><a href="https://github.com/NatoliJuan/TFM-DS-Market">Repositorio TFM DS Market</a></p>
   </div>
 
   <div class="proyecto">
     <img src="image17-h_mgtq6a7s.jpg" alt="Malware Infection">
     <p>Predije la probabilidad de infección por malware en equipos con Windows mediante técnicas de <em>machine learning</em>, evaluando el rendimiento de tres modelos distintos.</p>
-    <a href="https://github.com/NatoliJuan/Malware-infection" class="button">Repositorio</a>
+    <p><a href="https://github.com/NatoliJuan/Malware-infection">Repositorio Malware Infection</a></p>
   </div>
 
   <div class="proyecto">
     <img src="filtros02.jpg" alt="Filter Cam">
     <p>Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo real desde distintas fuentes, aplicando filtros visuales y detección de rostros mediante <em>OpenCV</em>. Permite activar o desactivar efectos desde el teclado durante la visualización del flujo de vídeo.</p>
-    <a href="https://github.com/NatoliJuan/Filter-Cam" class="button">Repositorio</a>
+    <p><a href="https://github.com/NatoliJuan/Filter-Cam">Repositorio Filter Cam</a></p>
   </div>
 </div>
 
@@ -100,12 +187,14 @@
     <li>Amazon S3, Glue Notebooks, Athena, Lambda, QuickSight y Step Functions.</li>
   </ul>
 </details>
+
 <details>
   <summary>INGLÉS PARA DESARROLLADORES (B1), FREECODECAMPS. AGOSTO 2025</summary>
   <ul>
     <li>73 diálogos diferentes diseñados para ampliar vocabulario en un entorno tecnológico profesional.</li>
   </ul>
 </details>
+
 <details>
   <summary>CURSO BIG DATA CON APACHE SPARK, UDEMY. JULIO 2025</summary>
   <ul>
@@ -114,6 +203,7 @@
     <li>Analítica avanzada, visualización de datos, Spark Koalas y despliegue de clusters con Databricks.</li>
   </ul>
 </details>
+
 <details>
   <summary>MÁSTER EN CIENCIA DE DATOS, ESCUELA NUCLIO DIGITAL. SEPTIEMBRE 2024 – MAYO 2025</summary>
   <ul>
@@ -124,6 +214,7 @@
     <li>Herramientas: Git, Google Colab, Jupyter Notebook, Docker, MLOps, Apache Airflow.</li>
   </ul>
 </details>
+
 <details>
   <summary>AUTODIDACTA EN PROGRAMACIÓN PYTHON. JULIO 2023 – SEPTIEMBRE 2024</summary>
   <ul>
@@ -132,6 +223,7 @@
     <li>Librerías: random, json, datetime, OpenCV, API requests.</li>
   </ul>
 </details>
+
 <details>
   <summary>ESCUELAS AVE MARÍA. 1994 – 1999</summary>
   <ul>
