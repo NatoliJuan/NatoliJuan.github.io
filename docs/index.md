@@ -1,19 +1,23 @@
 
 # Portfolio Juan Natoli Rojo
 
-### [**Habilidades](https://www.notion.so/Portfolio-Juan-Natoli-Rojo-2919c3357f0380898c3ff0471280797f?pvs=21)     [Proyectos](https://www.notion.so/Portfolio-Juan-Natoli-Rojo-2919c3357f0380898c3ff0471280797f?pvs=21)     [Educación     Contacto](https://www.notion.so/Portfolio-Juan-Natoli-Rojo-2919c3357f0380898c3ff0471280797f?pvs=21)**
+[Habilidades](#Habilidades) | [Proyectos](#Proyectos) | [Educación](#Educación) | [Contacto](#Contacto)
 
-![Imagen de WhatsApp 2024-09-13 a las 19.29.39_4529d2b9.jpg](33eacd50-0f45-482b-962d-1836215c1b3e.png)
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-## **Hola! Soy Juan Natoli.**
+  <img src="33eacd50-0f45-482b-962d-1836215c1b3e.png" alt="Foto de perfil" width="250" style="border-radius:50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 
-**Científico de Datos Junior con formación especializada en machine learning, procesamiento de datos y visualización. Experiencia profesional en el análisis técnico de sistemas, detección de patrones y gestión de equipos.** 
+  <div style="max-width: 500px; text-align: left;">
+    <h2>¡Hola! Soy Juan Natoli</h2>
+    <p><strong>Científico de Datos Junior</strong> con formación especializada en machine learning, procesamiento de datos y visualización. Experiencia profesional en el análisis técnico de sistemas, detección de patrones y gestión de equipos.</p>
+    <p><strong>Apasionado por aplicar soluciones basadas en datos</strong> para optimizar procesos y facilitar la toma de decisiones.</p>
+  </div>
 
-**Apasionado por aplicar soluciones basadas en datos para optimizar procesos y facilitar la toma de decisiones.**
+</div>
 
-<aside>
 
-# **Habilidades**
+
+# Habilidades
 
 ---
 
@@ -23,7 +27,7 @@
 
 <aside>
 
-# **Proyectos**
+# Proyectos
 
 ---
 
@@ -59,7 +63,7 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 
 <aside>
 
-# **Educación**
+# Educación
 
 ---
 
@@ -89,7 +93,7 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 
 <aside>
 
-# **Contacto**
+# Contacto
 
 ---
 
@@ -101,4 +105,12 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 
 💼 **LinkedIn:**  [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)
 
+
 🐙 **GitHub:**   [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
+
+
+
+
+
+
