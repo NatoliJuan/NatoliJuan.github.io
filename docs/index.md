@@ -1,4 +1,11 @@
+<style>
+header h1, .page-header {
+  display: none;
+}
+</style>
+
 # Portfolio Juan Natoli Rojo
+
 
 [Habilidades](#habilidades) | [Proyectos](#proyectos) | [Educación](#educación) | [Contacto](#contacto)
 
@@ -14,11 +21,13 @@
 
 </div>
 
+
 # Habilidades
 
 ![Captura_de_pantalla_2025-10-19_215155.png](Captura_de_pantalla_2025-10-19_215155.png)
 
-# proyectos
+
+# Proyectos
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
 
@@ -44,6 +53,7 @@
   </div>
 
 </div>
+
 
 
 
@@ -75,12 +85,14 @@
 - **ESCUELAS AVE MARÍA 1994 - 1999 GRADO SUPERIOR EN ELECTRÓNICA**  
   - Conocimientos avanzados en electrónica y electricidad.
 
+
 # Contacto
 
 📧 **Email:** natolijuan@gmail.com  
 📱 **Teléfono:** +34 653685949  
 💼 **LinkedIn:** [linkedin.com/in/juan-natoli](https://www.linkedin.com/in/juan-natoli/)  
 🐙 **GitHub:** [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
 
 
