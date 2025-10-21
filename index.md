@@ -5,9 +5,11 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-  <img src="33eacd50-0f45-482b-962d-1836215c1b3e.png" alt="Foto de perfil" width="250" style="border-radius:50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  <div style="flex: 0 0 auto;">
+    <img src="33eacd50-0f45-482b-962d-1836215c1b3e.png" alt="Foto de perfil" width="180" style="border-radius:50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  </div>
 
-  <div style="max-width: 500px; text-align: left;">
+  <div style="flex: 1; min-width: 250px; max-width: 500px; text-align: left;">
     <h2>¡Hola! Soy Juan Natoli</h2>
     <p><strong>Científico de Datos Junior</strong> con formación especializada en machine learning, procesamiento de datos y visualización. Experiencia profesional en el análisis técnico de sistemas, detección de patrones y gestión de equipos.</p>
     <p><strong>Apasionado por aplicar soluciones basadas en datos</strong> para optimizar procesos y facilitar la toma de decisiones.</p>
@@ -106,6 +108,7 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 
 
 🐙 **GitHub:**   [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
 
 
