@@ -3,8 +3,10 @@
 
 [Habilidades](#Habilidades) | [Proyectos](#Proyectos) | [Educación](#Educación) | [Contacto](#Contacto)
 
+<p align="center">
+  <img src="33eacd50-0f45-482b-962d-1836215c1b3e.png" alt="Foto de perfil" width="200" style="border-radius:50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+</p>
 
-![Imagen de WhatsApp 2024-09-13 a las 19.29.39_4529d2b9.jpg](33eacd50-0f45-482b-962d-1836215c1b3e.png)
 
 ## Hola! Soy Juan Natoli.
 
@@ -104,5 +106,6 @@ Desarrollé una aplicación interactiva en Python que procesa vídeo en tiempo r
 
 
 🐙 **GitHub:**   [github.com/NatoliJuan](https://github.com/NatoliJuan)
+
 
 
