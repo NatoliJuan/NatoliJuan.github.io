@@ -49,7 +49,6 @@
       padding-left: 20px; /* margen opcional para que no pegue al borde */
     }
 
-    
     h2 {
       text-align: left;
       margin-top: 40px; /* separa del bloque anterior */
@@ -61,6 +60,7 @@
       margin: 5px 0 20px 0; /* separa 5px arriba y 20px abajo */
       width: 100%;
     }
+
     /* Flex contenedor para foto + descripción */
     .intro {
       display: flex;
@@ -144,6 +144,23 @@
       margin: 0 10px;
     }
 
+    /* Botón Descargar CV */
+    .cv-btn {
+      background-color: #0366d6;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 6px;
+      margin-left: 20px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: background-color 0.2s;
+    }
+
+    .cv-btn:hover {
+      background-color: #024c9c;
+      text-decoration: none;
+    }
+
   </style>
 </head>
 <body>
@@ -158,6 +175,9 @@
     <a href="#proyectos">Proyectos</a> | 
     <a href="#educacion">Educación</a> | 
     <a href="#contacto">Contacto</a>
+
+    <!-- Botón Descargar CV -->
+    <a href="CV_JuanNatoliRojo.pdf" download class="cv-btn">Descargar CV</a>
   </div>
 
   <!-- Introducción -->
